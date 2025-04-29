@@ -2,7 +2,7 @@
     "name": "osa-eg/laravel-upayments",
     "description": "A Laravel package for integrating Upayments gateway.",
     "type": "library",
-    "version": "v1.0.0",
+    "version": "v1.0.1",
     "license": "MIT",
     "authors": [
         {
@@ -13,7 +13,7 @@
     "require": {
         "php": "^7.4|^8.0|^8.1|^8.2|^8.3",
         "guzzlehttp/guzzle": "^7.0",
-        "illuminate/support": "^8.0|^9.0|^10.0|^11"
+        "illuminate/support": "^8.0|^9.0|^10.0|^11|^12"
     },
     "autoload": {
         "psr-4": {
